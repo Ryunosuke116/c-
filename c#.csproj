@@ -1,0 +1,71 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>c_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="20240425\**" />
+    <Compile Remove="20240509\**" />
+    <Compile Remove="20240516\**" />
+    <Compile Remove="20240523\**" />
+    <Compile Remove="20240530\**" />
+    <Compile Remove="20240613\**" />
+    <Compile Remove="20240704\**" />
+    <EmbeddedResource Remove="20240425\**" />
+    <EmbeddedResource Remove="20240509\**" />
+    <EmbeddedResource Remove="20240516\**" />
+    <EmbeddedResource Remove="20240523\**" />
+    <EmbeddedResource Remove="20240530\**" />
+    <EmbeddedResource Remove="20240613\**" />
+    <EmbeddedResource Remove="20240704\**" />
+    <None Remove="20240425\**" />
+    <None Remove="20240509\**" />
+    <None Remove="20240516\**" />
+    <None Remove="20240523\**" />
+    <None Remove="20240530\**" />
+    <None Remove="20240613\**" />
+    <None Remove="20240704\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="20240425.cs" />
+    <Compile Remove="20240425_Prac01_坂本竜之助.cs" />
+    <Compile Remove="20240425_Prac02_坂本竜之助.cs" />
+    <Compile Remove="20240425_練習.cs" />
+    <Compile Remove="20240509.cs" />
+    <Compile Remove="20240509_Prac01_坂本竜之助.cs" />
+    <Compile Remove="20240509_Prac02_坂本竜之助.cs" />
+    <Compile Remove="20240516.cs" />
+    <Compile Remove="20240516_2.cs" />
+    <Compile Remove="20240516_Prac01_坂本竜之助.cs" />
+    <Compile Remove="20240516_Prac02_坂本竜之助.cs" />
+    <Compile Remove="20240523_Prac01_坂本竜之助.cs" />
+    <Compile Remove="20240523_Prac02_坂本竜之助.cs" />
+    <Compile Remove="20240523_練習.cs" />
+    <Compile Remove="20240523_練習２.cs" />
+    <Compile Remove="20240530.cs" />
+    <Compile Remove="20240530_Prac01_坂本竜之助.cs" />
+    <Compile Remove="20240530_Prac02_坂本竜之助.cs" />
+    <Compile Remove="20240530_Prac04_坂本竜之助.cs" />
+    <Compile Remove="20240613.cs" />
+    <Compile Remove="20240613_Prac01_坂本竜之助.cs" />
+    <Compile Remove="20240613_Prac02_坂本竜之助.cs" />
+    <Compile Remove="20240704.cs" />
+    <Compile Remove="20240704_Prac01_坂本竜之助.cs" />
+    <Compile Remove="20240711.cs" />
+    <Compile Remove="20240711_Prac01_坂本竜之助.cs" />
+    <Compile Remove="20240711_Prac02_坂本竜之助.cs" />
+    <Compile Remove="20240718.cs" />
+    <Compile Remove="20240718_Prac01_坂本竜之助.cs" />
+    <Compile Remove="20240718_Prac02_坂本竜之助.cs" />
+    <Compile Remove="20240822_Revi01_坂本竜之助.cs" />
+    <Compile Remove="Clas20240530_Prac03_坂本竜之助.cs" />
+    <Compile Remove="Program.cs" />
+  </ItemGroup>
+
+</Project>

@@ -45,9 +45,9 @@ namespace c_
             animals[0] = new Lion();
             animals[1] = new Elephant();
 
-            foreach (var a in animals)
+            foreach (var animal in animals)
             {
-                a.Eat();
+                animal.Eat();
             }
         }
 

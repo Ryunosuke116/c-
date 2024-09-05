@@ -68,6 +68,8 @@
     <Compile Remove="20240718_Prac02_坂本竜之助.cs" />
     <Compile Remove="20240822_Revi01_坂本竜之助.cs" />
     <Compile Remove="20240905\20240905_1.cs" />
+    <Compile Remove="20240905\20240905_Prac01_坂本竜之助.cs" />
+    <Compile Remove="20240905\20240905_Prac02_坂本竜之助.cs" />
     <Compile Remove="Clas20240530_Prac03_坂本竜之助.cs" />
     <Compile Remove="Program.cs" />
   </ItemGroup>

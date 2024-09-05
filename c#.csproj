@@ -16,6 +16,7 @@
     <Compile Remove="20240530\**" />
     <Compile Remove="20240613\**" />
     <Compile Remove="20240704\**" />
+    <Compile Remove="20240822_復習問題\**" />
     <EmbeddedResource Remove="20240425\**" />
     <EmbeddedResource Remove="20240509\**" />
     <EmbeddedResource Remove="20240516\**" />
@@ -23,6 +24,7 @@
     <EmbeddedResource Remove="20240530\**" />
     <EmbeddedResource Remove="20240613\**" />
     <EmbeddedResource Remove="20240704\**" />
+    <EmbeddedResource Remove="20240822_復習問題\**" />
     <None Remove="20240425\**" />
     <None Remove="20240509\**" />
     <None Remove="20240516\**" />
@@ -30,6 +32,7 @@
     <None Remove="20240530\**" />
     <None Remove="20240613\**" />
     <None Remove="20240704\**" />
+    <None Remove="20240822_復習問題\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -64,6 +67,7 @@
     <Compile Remove="20240718_Prac01_坂本竜之助.cs" />
     <Compile Remove="20240718_Prac02_坂本竜之助.cs" />
     <Compile Remove="20240822_Revi01_坂本竜之助.cs" />
+    <Compile Remove="20240905\20240905_1.cs" />
     <Compile Remove="Clas20240530_Prac03_坂本竜之助.cs" />
     <Compile Remove="Program.cs" />
   </ItemGroup>

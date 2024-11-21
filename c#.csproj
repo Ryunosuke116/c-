@@ -25,6 +25,8 @@
     <Compile Remove="20241024\**" />
     <Compile Remove="20241031\**" />
     <Compile Remove="20241107\**" />
+    <Compile Remove="20241114\**" />
+    <Compile Remove="c#＿メモ\**" />
     <EmbeddedResource Remove="20240425\**" />
     <EmbeddedResource Remove="20240509\**" />
     <EmbeddedResource Remove="20240516\**" />
@@ -41,6 +43,8 @@
     <EmbeddedResource Remove="20241024\**" />
     <EmbeddedResource Remove="20241031\**" />
     <EmbeddedResource Remove="20241107\**" />
+    <EmbeddedResource Remove="20241114\**" />
+    <EmbeddedResource Remove="c#＿メモ\**" />
     <None Remove="20240425\**" />
     <None Remove="20240509\**" />
     <None Remove="20240516\**" />
@@ -57,6 +61,8 @@
     <None Remove="20241024\**" />
     <None Remove="20241031\**" />
     <None Remove="20241107\**" />
+    <None Remove="20241114\**" />
+    <None Remove="c#＿メモ\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -91,9 +97,8 @@
     <Compile Remove="20240718_Prac01_坂本竜之助.cs" />
     <Compile Remove="20240718_Prac02_坂本竜之助.cs" />
     <Compile Remove="20240822_Revi01_坂本竜之助.cs" />
-    <Compile Remove="20241114\20241114_Prac01_坂本竜之助.cs" />
-    <Compile Remove="20241114\20241114_Prac02_坂本竜之助.cs" />
-    <Compile Remove="20241114\練習.cs" />
+    <Compile Remove="20241121\20241121_Prac01_坂本竜之助.cs" />
+    <Compile Remove="20241121\program.cs" />
     <Compile Remove="Clas20240530_Prac03_坂本竜之助.cs" />
     <Compile Remove="Program.cs" />
   </ItemGroup>
